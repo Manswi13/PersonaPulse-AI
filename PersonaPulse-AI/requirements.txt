@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langgraph
+langchain-google-genai
+google-generativeai
+python-dotenv
+faiss-cpu
+fastapi
+uvicorn
+requests
+langchain_huggingface
+langchain-mistralai
